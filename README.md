@@ -24,6 +24,7 @@ Currently, I'm focused on strengthening my Data Structures & Algorithms, improvi
 - JavaScript
 - HTML
 - CSS
+- Currently learning React
 
 **Tools & Platforms**
 - Git & GitHub
