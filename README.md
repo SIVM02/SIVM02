@@ -29,7 +29,7 @@ Currently, I'm focused on strengthening my Data Structures & Algorithms, improvi
 **Tools & Platforms**
 - Git & GitHub
 - VS Code
-- Linux
+- Linux 
 - LeetCode
 - Codeforces
 
@@ -45,7 +45,6 @@ My current priorities are:
 - Becoming confident enough to contribute to open-source projects.
 
 ## 🎯 2026–2027 Goals
-
 - [ ] Strengthen DSA and problem-solving.
 - [ ] Improve competitive programming skills.
 - [ ] Build meaningful real-world projects.
