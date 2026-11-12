@@ -51,7 +51,6 @@ My current priorities are:
 - [ ] Make consistent GitHub contributions.
 - [ ] Start contributing to open-source projects.
 - [ ] Prepare for software development internships.
-
 ---
 
 ## 🐋 My GitHub Contribution Whale
